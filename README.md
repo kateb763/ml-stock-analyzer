@@ -14,8 +14,7 @@ This project uses historical stock price data from Yahoo Finance, applies techni
 - Python
 - Pandas, NumPy
 - yfinance, scikit-learn, XGBoost
-- Matplotlib, Seaborn
-- Streamlit (optional UI)
+- Matplotlib 
 
 ## Installation
 ```bash
